@@ -5,7 +5,7 @@ This is my graduation project focused on comprehensive testing of the Any.do mob
 
 ### 📊 Key Metrics:
 * 80+ checks (combination of checklists and detailed test cases).
-* 3 bugs identified (Blocker, Major, Minor), reported according to industry standards.
+* 3 bugs identified , reported according to industry standards.
 * 11 devices in the device coverage matrix (iOS & Android).
 
 ### 🛠 Skills Applied:
@@ -21,7 +21,7 @@ This is my graduation project focused on comprehensive testing of the Any.do mob
 
 ### 📊 Ключевые показатели:
 * 80+ проверок (комбинация чек-листов и детальных тест-кейсов).
-* 3 найденных бага (Blocker, Major, Minor), оформленных по стандартам.
+* 3 найденных бага, оформленных по стандартам.
 * 11 устройств в матрице покрытия (iOS и Android).
 
 ### 🛠 Что реализовано в работе:
